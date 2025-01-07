@@ -1,0 +1,44 @@
+
+.header{
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.apikey-modal{
+  height: 300px;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  background-color: rgba(0, 0, 0, 0.844);
+  border: none;
+  color: white;
+}
+
+.dropdown-input{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  width: 100%;
+
+  select{
+    padding: 5px;
+  }
+}
+
+.apikey-holder{
+  width: 100%;
+  text-align: center;
+
+  input{
+    padding: 5px;
+    width: 80%;
+  }
+}
+
+.btn-submit{
+  
+}
